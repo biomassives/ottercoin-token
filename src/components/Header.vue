@@ -2,10 +2,10 @@
   <v-app-bar app color="primary" dark absolute>
     <div class="d-flex align-center">
       <v-img
-        alt="Hedera Logo"
+        alt="Ottercoin DAO"
         class="shrink mr-2"
         contain
-        src="../assets/logo.svg"
+        src="../assets/ottercoin.gif"
         transition="scale-transition"
         width="40"
       />
